@@ -1,3 +1,9 @@
+### 0.295.3
+
+- Fixed VTX wizard
+- Updated German language
+- Made all video tutorials to open in browser instead
+
 #### 0.295.2
 
 - Fixed white screen bug on win32
