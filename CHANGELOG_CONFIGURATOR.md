@@ -1,4 +1,9 @@
-### 0.295.3
+#### 0.295.4
+
+- Added button to share motor test results
+- Fixed USART 3 TX for interview
+
+#### 0.295.3
 
 - Fixed VTX wizard
 - Updated German language
