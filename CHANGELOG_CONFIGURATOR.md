@@ -1,4 +1,4 @@
-#### 0.295.5
+#### 0.300.0
 
 - Added value labels for TPA sliders on PID tuning page
 - Added "Roll deadband", "Pitch deadband", "Yaw deadband" on PID Tuning page
@@ -6,7 +6,7 @@
 - Changed incorrect setting VTX mode in VTX wizard
 - Changed OSD switch value from 5 to 4
 - Changed motor layout in Configuration-Test motors wizard
-- Set minimum fc version to 0.300.0
+- Set minimum fc version to 0.300.110
 
 #### 0.295.4
 
