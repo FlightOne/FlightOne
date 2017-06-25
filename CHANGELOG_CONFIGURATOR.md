@@ -6,7 +6,7 @@
 - Changed incorrect setting VTX mode in VTX wizard
 - Changed OSD switch value from 5 to 4
 - Changed motor layout in Configuration-Test motors wizard
-- Set minimum fc version to 0.300.110
+- Set minimum fc version to 0.300.0
 
 #### 0.295.4
 
