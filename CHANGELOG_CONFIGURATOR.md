@@ -1,6 +1,6 @@
 #### 0.300.1
 
-- Fixed issue when you erase flash in logging and it doesn't change the graphic to show how full it is
+- Fixed issue when you erase flash and indicator doesn't change
 - Fixed UI adaptation on small screens
 - Added Japanese language support
 - Added "ESC info" button on Configuration->ESC
