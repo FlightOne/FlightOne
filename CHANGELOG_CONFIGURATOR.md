@@ -1,3 +1,11 @@
+#### 0.300.1
+
+- Fixed issue when you erase flash in logging and it doesn't change the graphic to show how full it is
+- Fixed UI adaptation on small screens
+- Added Japanese language support
+- Added "ESC info" button on Configuration->ESC
+- Small UI fixes
+
 #### 0.300.0
 
 - Added value labels for TPA sliders on PID tuning page
