@@ -3,6 +3,7 @@
 - Fixed issue when you erase flash and indicator doesn't change
 - Fixed UI adaptation on small screens
 - Added Japanese language support
+- Improve Russian language
 - Added "ESC info" button on Configuration->ESC
 - Small UI fixes
 
