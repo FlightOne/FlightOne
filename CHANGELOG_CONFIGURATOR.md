@@ -1,11 +1,24 @@
-#### 0.300.1
+#### 0.301.0
+
+- Added multiple profiles
+
+#### 0.300.0
 
 - Fixed issue when you erase flash and indicator doesn't change
 - Fixed UI adaptation on small screens
 - Added Japanese language support
 - Improve Russian language
 - Added "ESC info" button on Configuration->ESC
-- Small UI fixes
+- Added more tooltips
+- Small UI fixes and improvements
+- Added value labels for TPA sliders on PID tuning page
+- Added "Roll deadband", "Pitch deadband", "Yaw deadband" on PID Tuning page
+- Fixed small user interface issues
+- Changed incorrect setting VTX mode in VTX wizard
+- Changed OSD switch value from 5 to 4
+- Changed motor layout in Configuration-Test motors wizard
+- Improve Update firmware screen
+- Added option to disable graphics accelration for configurator
 
 #### 0.300.0
 
