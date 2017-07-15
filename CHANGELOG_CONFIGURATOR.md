@@ -1,3 +1,13 @@
+#### 0.302.0
+
+- Added stepper widget for fields for convenient use on Tablets
+- Fixed blackbirdfpv TPA profile values
+- Add validation for all fields (#163)
+- Added Korean language support
+- UI fixes
+- Added support for firmware version with profiles and without them
+- Min support firmware version set to 0.300.0
+
 #### 0.301.0
 
 - Added multiple profiles
