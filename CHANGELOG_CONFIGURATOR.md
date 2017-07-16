@@ -2,7 +2,7 @@
 
 - Fixed issue when GUI freezes if you select "yes" to help smooth stick movements
 - Fixed motor noise test layout(#162)
-- Improve Korean language
+- Improved Korean language
 - UI improvements(#154) 
 
 #### 0.302.0
