@@ -7,7 +7,7 @@
 - Made more informative error messages
 - Updated Korean and French languages
 - UI fixes (#151)
-- Perfomance and securiy updates
+- Performance and security updates
 
 #### 0.302.1
 
