@@ -1,3 +1,14 @@
+#### 0.307.0
+
+- PID levels, rates, filter defaults will delivery from internet now
+- Added "Current value" label on pid tuning tab
+- Added "Demag" option on ESC tab (#164)
+- Fixed issues with interview wizard
+- Made more informative error messages
+- Updated Korean and French languages
+- UI fixes (#151)
+- Perfomance and securiy updates
+
 #### 0.302.1
 
 - Fixed issue when GUI freezes if you select "yes" to help smooth stick movements
@@ -36,16 +47,6 @@
 - Changed motor layout in Configuration-Test motors wizard
 - Improve Update firmware screen
 - Added option to disable graphics accelration for configurator
-
-#### 0.300.0
-
-- Added value labels for TPA sliders on PID tuning page
-- Added "Roll deadband", "Pitch deadband", "Yaw deadband" on PID Tuning page
-- Fixed small user interface issues
-- Changed incorrect setting VTX mode in VTX wizard
-- Changed OSD switch value from 5 to 4
-- Changed motor layout in Configuration-Test motors wizard
-- Set minimum fc version to 0.300.110
 
 #### 0.295.4
 
