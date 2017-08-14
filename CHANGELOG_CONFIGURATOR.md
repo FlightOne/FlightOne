@@ -1,3 +1,10 @@
+#### 0.314.0
+
+- Added VTX control dropdown to select VTX device (#176)
+- CG Adjustment increase max value to 1.1
+- UI Improvements
+- Performance and security updates
+
 #### 0.307.0
 
 - PID levels, rates, filter defaults will delivery from internet now
