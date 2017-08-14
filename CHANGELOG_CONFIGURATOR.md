@@ -1,3 +1,8 @@
+#### 0.314.1
+
+- Added copy profile values button on PID tuning tab
+- Added OSD options on Configuration tab
+
 #### 0.314.0
 
 - Added VTX control dropdown to select VTX device (#176)
