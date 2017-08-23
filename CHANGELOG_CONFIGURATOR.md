@@ -1,3 +1,7 @@
+#### 0.317.1
+
+- Fixed issue with connection on windows
+
 #### 0.317.0
 
 - Added News tab
