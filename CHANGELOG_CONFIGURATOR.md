@@ -1,3 +1,14 @@
+#### 0.317.0
+
+- Added News tab
+- Changed Flight log download system
+- startuppower, tempprotection and demag set by ESC wizard now
+- Added .5 format support for input fields
+- Fixed bug when white screen sometimes appear after connection
+- Fixed issues when multiple devices connected
+- UI Improvements
+- Set minimum support firmware version set to 0.316.0
+
 #### 0.314.1
 
 - Added copy profile values button on PID tuning tab
