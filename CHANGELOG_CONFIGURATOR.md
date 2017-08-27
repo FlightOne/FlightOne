@@ -1,3 +1,9 @@
+#### 0.320.0
+
+- Added "Crossfire telemetry on TX3" button on Configuration tab
+- Changed "CPPM TX Pin" and "CPPM RX Pin" values on Configuration tab
+- Changed/Remove some quick selection defaults
+
 #### 0.317.1
 
 - Fixed issue with connection on windows
