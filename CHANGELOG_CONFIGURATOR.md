@@ -1,3 +1,9 @@
+#### 0.320.1
+
+- Update French language
+- Added old(slow) download flight log method for people who has issue with their drives
+- Added smartaudio select to interview page
+
 #### 0.320.0
 
 - Added "Crossfire telemetry on TX3" button on Configuration tab
