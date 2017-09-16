@@ -1,3 +1,9 @@
+#### 0.324.0
+
+- Update Korean language
+- Fixed tpa curve slider bug, when max value was 100
+- Small UI fixes
+
 #### 0.320.1
 
 - Update French language
