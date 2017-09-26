@@ -1,3 +1,15 @@
+### 0.352.0
+
+- Added shop tab
+- Updated Korean language
+- Added QUOPA Mode Style drop down to on the Configuration Page(options Automatic, Semi-Automatic, and Manual)
+
+#### 0.326.0
+
+- PID defaults changes
+- Small UI fixes
+- Set min firmware support version to 0.326.0
+
 #### 0.324.0
 
 - Update Korean language
