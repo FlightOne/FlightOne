@@ -1,4 +1,4 @@
-### 0.352.0
+#### 0.352.0
 
 - Added shop tab
 - Updated Korean language
