@@ -1,3 +1,8 @@
+#### 0.363.0
+
+- Added craft name option on configuration tab
+- Update filters
+- Fixed issue when some option not copied on PID tuning tab
 
 #### 0.362.0
 
