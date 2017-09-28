@@ -1,5 +1,5 @@
 
-#### 0.352.1
+#### 0.362.0
 
 - Added more QUOPA Mode Style options(Automatic 4 motor mode, Automatic 2 motor mode, Semi automatic 4 motor mode, Semi automatic 2 motor mode, Manual 4 motor mode, Manual 2 motor mode)
 
