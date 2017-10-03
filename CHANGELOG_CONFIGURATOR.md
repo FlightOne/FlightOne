@@ -3,7 +3,7 @@
 - Improve Detect receiver wizard
 - Improve Setup Radio wizard
 - Fixed error with resetting telem data after Setup Radio wizard
-- Fixed rare error when board wont connect after error
+- Fixed rare bug when board wont connect after error
 - Improve error messages
 - Added Filter type selection on PID Tuning page
 
