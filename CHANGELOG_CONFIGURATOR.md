@@ -6,6 +6,7 @@
 - Fixed rare bug when board wont connect after error
 - Improve error messages
 - Added Filter type selection on PID Tuning page
+- PID non percent values now editable
 
 #### 0.363.0
 
