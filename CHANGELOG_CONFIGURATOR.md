@@ -1,3 +1,9 @@
+#### 0.364.1
+
+- Fixed startup crash on OSX Mavericks
+- Performance and security updates
+- UI fixes
+
 #### 0.364.0
 
 - Improve Detect receiver wizard
