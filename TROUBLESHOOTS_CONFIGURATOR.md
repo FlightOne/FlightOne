@@ -10,3 +10,8 @@ You need to delete old configurator data folder from your PC. Data directory is 
 * Linux: `~/.config/RaceFlight`
 
 ![alt text](troubleshoots_1_1.png)
+
+
+### Internal HID error
+
+When you receive *Internal HID error* message it could possibly means that you disconnected board during data transfer or your board out of sync. Usually disconnect and then reconnect board helps in this situation.
