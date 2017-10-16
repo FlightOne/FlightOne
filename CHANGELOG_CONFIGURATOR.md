@@ -1,3 +1,12 @@
+#### 0.374.0
+
+- Fixed issue with empty craft_name field on configuration tab
+- Fixed issue when 3D model on telemetry tab sometimes not appeared
+- Improve IU for Setup FC wizard
+- Fixed several UI issues
+- Improve translation and analytics
+- Set min firmware support version to 0.374.0
+
 #### 0.364.1
 
 - Fixed startup crash on OSX Mavericks
