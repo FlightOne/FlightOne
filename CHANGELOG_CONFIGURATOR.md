@@ -1,3 +1,10 @@
+#### 0.374.1
+
+- UI improvements
+- Fixed issue when TPA and some other variables not copied to another profile
+- Filter type affect to omega variables now. If filter type is `Dynamic noise` then omega variables(`omega1_yaw` etc.) will be the same as filter level.
+- Added 3 new fields(roll rap, pitch rap, yaw rap) on PID Tuning tab page
+
 #### 0.374.0
 
 - Fixed issue with empty craft_name field on configuration tab
