@@ -1,3 +1,7 @@
+#### 0.374.2
+
+- Fix issue when TPA values not applied in Setup wizard
+
 #### 0.374.1
 
 - UI improvements
