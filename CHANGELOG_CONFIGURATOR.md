@@ -1,3 +1,10 @@
+#### 0.375.0
+
+- Added warning window when you make changes, but forget to save them.
+- Filter type now apply default values
+- Small UI issues
+- Set min firwmare version to 0.375.0
+
 #### 0.374.2
 
 - Fix issue when TPA values not applied in Setup wizard
