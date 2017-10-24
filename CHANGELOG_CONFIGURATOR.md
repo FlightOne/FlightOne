@@ -1,3 +1,7 @@
+#### 0.375.1
+
+- Fixed issue when some defaults are not applied after wizard
+
 #### 0.375.0
 
 - Added warning window when you make changes, but forget to save them.
