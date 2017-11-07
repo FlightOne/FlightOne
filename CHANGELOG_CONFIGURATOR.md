@@ -1,3 +1,9 @@
+#### 0.375.2
+
+- Added `bheli_32` support for motor direction wizard
+- Added import/export quad settings from file menu
+- Update French and Korean languages
+
 #### 0.375.1
 
 - Fixed issue when some defaults are not applied after wizard
