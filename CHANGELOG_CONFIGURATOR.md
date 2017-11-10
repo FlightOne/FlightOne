@@ -1,3 +1,9 @@
+#### 0.380.0
+
+- Changed setup page layout
+- "Setup radio" wizard improvements
+- Fixed issue when modes not save while import
+
 #### 0.375.2
 
 - Added `bheli_32` support for motor direction wizard
