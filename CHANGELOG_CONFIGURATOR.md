@@ -1,8 +1,18 @@
-#### 0.380.0
+#### 0.400.0
 
 - Changed setup page layout
 - "Setup radio" wizard improvements
 - Fixed issue when modes not save while import
+- Fixed arming issue after wizard
+- Remove blheli_32 from wizard
+- Improve localization
+- Update Russian and Korean language 
+- Added voltage data on Configuration tab.
+- Added Crossfire option on chose receiver page in interview wizard
+- Fixed issue when scroll bar not appear in wizard 6
+- Removed Enable digital precision mode on configuration page
+- UI updates, small bug fixes
+- Set min firmware version to 0.400.0
 
 #### 0.375.2
 
