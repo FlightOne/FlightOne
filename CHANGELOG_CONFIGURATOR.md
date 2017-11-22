@@ -1,3 +1,9 @@
+#### 0.402.0
+
+- Added options to change layout for modes(via wizards or via sliders)
+- Fixed issue when mode is not set via wizard on some radios
+- QUOPA modes now have only two options: `Automatic 2 motor mode` and `Manual 2 motor mode`
+
 #### 0.400.0
 
 - Changed setup page layout
