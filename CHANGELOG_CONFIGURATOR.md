@@ -1,3 +1,8 @@
+#### 0.409.0
+
+- Added CRSF options for receiver protocol on Configuration page
+- Quick change filter levels now show based on filter type
+
 #### 0.402.0
 
 - Added options to change layout for modes(via wizards or via sliders)
