@@ -1,3 +1,12 @@
+#### 0.416.0
+
+- New layout for Setup page
+- Fixed bug when PIDs in non percent mode not changed with quick change button
+- New PID Layout
+- Fixed defaults
+- Fixed Current Draw and Consumed values on Configuration page
+- Fixed small UI issues
+
 #### 0.409.0
 
 - Added CRSF options for receiver protocol on Configuration page
