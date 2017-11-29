@@ -1,3 +1,7 @@
+#### 0.418.0
+
+- Fixed voltage decimal point
+
 #### 0.416.0
 
 - New layout for Setup page
