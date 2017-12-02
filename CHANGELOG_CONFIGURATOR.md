@@ -1,3 +1,12 @@
+#### 0.419.0
+
+- Fixed issue when some users have incorrect defaults with first load
+- Added "Load OSD Character Map button" on Configuration page
+- Changed layout for Configuration and ESC pages
+- Added confirmation window when you remove mode via wizard
+- Updated Korean language
+- Fixed small UI issues
+
 #### 0.418.0
 
 - Fixed voltage decimal point
