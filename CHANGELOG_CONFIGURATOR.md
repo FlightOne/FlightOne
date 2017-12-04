@@ -1,4 +1,10 @@
-#### 0.419.0
+#### 0.419.2
+
+- Fixed issue #232
+- TPA value could be editable with keyboard, by clicking on them
+- Fixed small UI issues
+
+#### 0.419.1
 
 - Fixed issue when some users have incorrect defaults with first load
 - Added "Load OSD Character Map button" on Configuration page
