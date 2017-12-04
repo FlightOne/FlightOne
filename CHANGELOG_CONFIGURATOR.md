@@ -1,3 +1,7 @@
+#### 0.419.3
+
+- Removed warning when configurator detects more then one switch movement with mode wizard. It will select lower number channel.
+
 #### 0.419.2
 
 - Fixed issue #232
