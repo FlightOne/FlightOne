@@ -1,3 +1,14 @@
+#### 0.420.0
+
+- Added Pilot name field on configuration page
+- Changed CG Adjustment defaults from 1 to 100
+- Added table view for rate dps on pid tuning tab
+- Added Force Update ESC button on ESC tab
+- Added OSD configuration wizard
+- Added Internal OSD option for OSD dropdown on configuration page
+- Small UI Fixes
+- Set minimum fc version to 0.420.0
+
 #### 0.419.3
 
 - Removed warning when configurator detects more then one switch movement with mode wizard. It will select lower number channel.
