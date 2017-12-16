@@ -1,3 +1,10 @@
+#### 0.420.1
+
+- Added possibility to flash firmware online
+- Added possibility to upload/share user configs on https://raceflight.com/rf-configs/  (Alpha testing for now) 
+- Fixed issue when rc smoothing can be less then 1 after applying quick tunes
+- Fixed issue when board do not load into Flight controller mode after flashing firmware in DFU
+
 #### 0.420.0
 
 - Added Pilot name field on configuration page
