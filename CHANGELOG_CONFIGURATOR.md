@@ -1,3 +1,11 @@
+
+#### 0.420.2
+
+- Fixed issue when profile name not display correctly after save
+- Added "Brushed" option to ESC protocol on configuration page
+- Updated Korean language
+- Small UI fixed and improvements
+
 #### 0.420.1
 
 - Added possibility to flash firmware online
