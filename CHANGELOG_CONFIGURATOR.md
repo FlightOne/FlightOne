@@ -1,3 +1,8 @@
+#### 0.420.3
+
+- Fixed incorrect display value for `Current draw`
+- Fixed display decimals on PID tuning
+- Improved users tune preset service (https://raceflight.com/rf-configs/)
 
 #### 0.420.2
 
