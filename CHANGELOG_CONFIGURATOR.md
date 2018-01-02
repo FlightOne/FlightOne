@@ -1,3 +1,10 @@
+#### 0.426.0
+
+- Added export options
+- Fixed issue when import dump from file sometimes failed
+- Fixed issue with math calculation for some value on PID tuning page
+- `rap` variables are not editable from PID tuning page anymore
+
 #### 0.420.3
 
 - Fixed incorrect display value for `Current draw`
