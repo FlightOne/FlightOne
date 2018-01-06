@@ -1,3 +1,8 @@
+#### 0.426.1
+
+- Fixed issue with importing whole dump
+- Small UI fixes
+
 #### 0.426.0
 
 - Added export options
