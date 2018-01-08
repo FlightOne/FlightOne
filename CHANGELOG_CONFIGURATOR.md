@@ -1,3 +1,9 @@
+#### 0.426.2
+
+- Fixed issue with motor mapping in last wizard and saving
+- Small bug fixes
+- Updated Korean language
+
 #### 0.426.1
 
 - Fixed issue with importing whole dump
