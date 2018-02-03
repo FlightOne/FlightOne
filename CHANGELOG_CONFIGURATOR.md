@@ -1,3 +1,21 @@
+#### 0.500.3
+
+- Fix typos, change images
+- Small UI fixes
+
+#### 0.500.0
+
+- Wizard 4 set minthrottle to 1012 and maxthrottle to 1870 for each motor
+- Added competed or not flag to each wizard
+- Modified Calibration wizard to enable txprogramming before calibration and disable after
+- Added ability to reset old settings after flash.
+- Sign OSX app, so mac os users will not receive warning message with first launch
+- Added arming issues wizard on Setup page
+- Added setup manually page to detect receiver wizard
+- Added esc type step in interview, to modify wizards based on your ESC. You can also change it on configuration page
+- Improved translation and analytics
+- Set minimum fc version to 0.497.0
+
 #### 0.426.2
 
 - Fixed issue with motor mapping in last wizard and saving
