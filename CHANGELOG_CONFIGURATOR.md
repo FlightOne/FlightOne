@@ -1,3 +1,13 @@
+#### 0.500.4
+
+- Set tx3 by default in interview wizard
+- Added throttle curve on PID Tuning page
+- Hide ESC tab and Update ESC wizard for all ESCs except blheli_s
+- Modify wizard 6 for other ESCs
+- Update Blackbird FPV rates
+- Added "Brushed 8khz" esc protocol
+- Fixed small UI issues
+
 #### 0.500.3
 
 - Fix typos, change images
