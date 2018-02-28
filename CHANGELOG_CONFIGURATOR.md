@@ -1,3 +1,11 @@
+#### 0.524.0
+
+- Added low pass settings on PID Tuning page
+- Added kill channel and vtx channel dropdown on configuration page
+- Removed Startup Tone option from ESC page
+- Fixed issue when after flash formatting window not closed
+- Set minimum firmware version to 524
+
 #### 0.500.4
 
 - Set tx3 by default in interview wizard
