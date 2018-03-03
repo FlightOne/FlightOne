@@ -1,3 +1,9 @@
+#### 0.560.0
+
+- Added new filter types
+- Added gyro smoothing on PID tunning page
+- Added vtx power on configuration page
+
 #### 0.524.0
 
 - Added low pass settings on PID Tuning page
