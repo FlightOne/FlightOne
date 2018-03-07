@@ -1,3 +1,19 @@
+#### 0.565.0
+
+- Added LED with USB switch on configuration page
+- Old setting automatically save to file before flash(note that if your previous settings is supported by configurator it will ask you to import settings automatically). Path for saved backups:
+```
+    Windows: %LOCALAPPDATA%/RaceFlight/Default/backups/dump/
+    Mac: ~/Library/Application Support/RaceFlight/Default/backups/dump/
+    Linux: ~/.config/RaceFlight/Default/backups/dump/
+```
+- Added cleanflight passthrough button on configuration page
+- Fixed issue when motor reverse wizard show error when dshot mode was previously enabled
+- Previous setting after flash can be restored even configurator was closed now
+- Fixed export new rate variables
+- Improved translation
+- Performance and security updates
+
 #### 0.560.0
 
 - Added new filter types
