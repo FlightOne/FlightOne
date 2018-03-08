@@ -1,3 +1,8 @@
+#### 0.569.0
+
+- Removed lowpass_bw variable
+- Set minimum fc version to 0.569.0
+
 #### 0.565.1
 
 - Some UI changes
