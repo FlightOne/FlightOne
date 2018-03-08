@@ -1,3 +1,8 @@
+#### 0.565.1
+
+- Some UI changes
+- Translation improvements
+
 #### 0.565.0
 
 - Added LED with USB switch on configuration page
