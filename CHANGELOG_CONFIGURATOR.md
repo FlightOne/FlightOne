@@ -1,3 +1,8 @@
+#### 0.569.1
+
+- Fixed issue when motor direction not save for blheli32 wizard
+- UI improvements for passthrough 
+
 #### 0.569.0
 
 - Removed lowpass_bw variable
