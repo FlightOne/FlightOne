@@ -1,3 +1,17 @@
+#### 0.571.0
+
+- Added switch to enable new rc smoothing
+- Configurator can show incompatibility with new firmwares now
+- Changes on configuration page will save before go to cleanflight passthrough
+- Added voltage offset on configuration page
+- Import settings from unsupported firmware versions are now available with warning
+- Small UI fixes
+
+#### 0.570.0
+
+- Removed Filter level field from PID tuning page
+- Update quick defaults
+
 #### 0.569.1
 
 - Fixed issue when motor direction not save for blheli32 wizard
