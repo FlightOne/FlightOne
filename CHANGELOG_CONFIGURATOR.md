@@ -1,3 +1,9 @@
+#### 0.572.0
+
+- Fixed issue when min fc version not worked on first launch
+- Set rc_smoothing to 1 when New RC Smoothing checkbox changed
+- Small UI issues
+
 #### 0.571.0
 
 - Added switch to enable new rc smoothing
