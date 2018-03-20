@@ -1,3 +1,7 @@
+#### 0.572.1
+
+- Fixed issue when saving not worked on configuration tab
+
 #### 0.572.0
 
 - Fixed issue when min fc version not worked on first launch
