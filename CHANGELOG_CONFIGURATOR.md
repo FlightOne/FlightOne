@@ -1,3 +1,11 @@
+#### 0.575.0
+
+
+- Added Hebrew language support
+- Some bug fixes for Linux
+- Update 7in defaults
+- Flight One rebranding
+
 #### 0.572.1
 
 - Fixed issue when saving not worked on configuration tab
