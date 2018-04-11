@@ -1,5 +1,15 @@
-#### 0.575.0
+#### 0.586.0
 
+- Voltage offset range changed from 0.5-1.5 to 0.75-1.2. Added percent sign
+- Fixed issue when news not shown correctly
+- Added "Voltage Per Cell" option for OSD layout
+- UI improvements
+
+#### 0.575.1
+
+- Added "Current" option for OSD layout
+
+#### 0.575.0
 
 - Added Hebrew language support
 - Some bug fixes for Linux
