@@ -4,6 +4,7 @@
 - Fixed issue when news not shown correctly
 - Added "Voltage Per Cell" option for OSD layout
 - UI improvements
+- Set minimum fc version to 0.586.0
 
 #### 0.575.1
 
