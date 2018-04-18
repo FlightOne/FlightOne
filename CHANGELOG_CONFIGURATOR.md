@@ -1,3 +1,8 @@
+#### 0.590.0
+
+- Improve motor direction wizard for blheli32
+- UI improvements
+
 #### 0.586.0
 
 - Voltage offset range changed from 0.5-1.5 to 0.75-1.2. Added percent sign
