@@ -1,3 +1,28 @@
+#### 1.1.85
+
+- Added 'Proshot' esc protocol on Configuration page
+- Added 'Disabled' filter type option on PID Tuning page
+
+#### 1.1.80
+
+- Added 'Fake Kalman Filter' and 'RC FIR2 Filter' on PID tuning page
+- Removed 'Predictive Filter' for D filter
+- Small bug fixes
+
+#### 1.1.46
+
+- Hide frequency filter if user pick predictive on PID tuning page
+
+#### 1.1.45
+
+- Added ability to restore previous settings after flash even the fc version not supported
+- Rename gyro smoothing 'Low' to 'Off'
+
+#### 1.1.44
+
+- Removed ESC signal smoothing switch from PID tuning page
+- Changed filter types
+
 #### 0.590.0
 
 - Improve motor direction wizard for blheli32
