@@ -1,3 +1,11 @@
+#### 1.1.101
+
+- Added expert mode option in settings
+- Added Average ESC temp, ESC eRPM, ESC current OSD options
+- Update defaults on PID Tuning page
+- Fixed issue with version check
+- Move Update ESCs wizard to Configuration page
+
 #### 1.1.85
 
 - Added 'Proshot' esc protocol on Configuration page
