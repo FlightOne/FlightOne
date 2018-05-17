@@ -1,3 +1,7 @@
+#### 1.1.102
+
+- Added quick change filter levels button on PID Tuning page
+
 #### 1.1.101
 
 - Added expert mode option in settings
