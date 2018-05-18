@@ -1,3 +1,13 @@
+#### 1.1.106
+
+- Added blheli32 telemetry switch
+- Added Proshot 32khz esc protocol
+- Removed DShot150 esc protocol
+- Increase number of lines for OSD from 13 to 16
+- Added OSD Type dropdown on Configuration page
+- Small UI fixes
+- Set minimum fc version to 1.1.106
+
 #### 1.1.102
 
 - Added quick change filter levels button on PID Tuning page
