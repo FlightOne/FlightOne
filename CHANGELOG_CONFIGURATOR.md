@@ -1,3 +1,7 @@
+#### 1.1.107
+
+- Fixed issue when number of lines for OSD not change based on OSD type
+
 #### 1.1.106
 
 - Added blheli32 telemetry switch
