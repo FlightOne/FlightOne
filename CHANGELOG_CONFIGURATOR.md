@@ -1,3 +1,10 @@
+#### 1.1.108
+
+- Added ESC tab with ESC info and change motor direction wizard for Blheli 32
+- Fix some quick defaults
+- Added Autoupdater for Windows and MacOS versions.
+- Small UI fixes and improvements
+
 #### 1.1.107
 
 - Fixed issue when number of lines for OSD not change based on OSD type
