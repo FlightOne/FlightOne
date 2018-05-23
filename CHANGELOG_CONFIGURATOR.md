@@ -2,12 +2,12 @@
 
 - Removed `dshot1200` choose when ESC type is blheli_s
 - Removed calibrate motors when ESC type is blheli32
+- Added Autoupdater for Windows and MacOS versions.
 
 #### 1.1.108
 
 - Added ESC tab with ESC info and change motor direction wizard for Blheli 32
 - Fix some quick defaults
-- Added Autoupdater for Windows and MacOS versions.
 - Small UI fixes and improvements
 
 #### 1.1.107
