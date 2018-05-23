@@ -1,3 +1,8 @@
+#### 1.1.109
+
+- Removed `dshot1200` choose when ESC type is blheli_s
+- Removed calibrate motors when ESC type is blheli32
+
 #### 1.1.108
 
 - Added ESC tab with ESC info and change motor direction wizard for Blheli 32
