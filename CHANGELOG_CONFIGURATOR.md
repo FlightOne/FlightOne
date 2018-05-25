@@ -1,3 +1,7 @@
+#### 1.1.111
+
+- Fix autoupdater for MacOS
+
 #### 1.1.110
 
 - Added limit settings for export menu
