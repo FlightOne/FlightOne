@@ -1,3 +1,12 @@
+#### 1.1.110
+
+- Added limit settings for export menu
+- Fix issue when quick rates don't update rc_smoothing on PID Tuning tab
+- Fixed issue when connection errors may not shown
+- Increase connection speed and fc recognizing
+- Settings will not overwritten by first wizard if you have completed it before
+- Small UI fixes and improvements
+
 #### 1.1.109
 
 - Removed `dshot1200` choose when ESC type is blheli_s
