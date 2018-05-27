@@ -1,3 +1,8 @@
+#### 1.1.112
+
+- Fixed issue when Calibration motors wizard not show for multishot protocol
+- Fixed issue when loading dialog not close
+
 #### 1.1.111
 
 - Fix autoupdater for MacOS
